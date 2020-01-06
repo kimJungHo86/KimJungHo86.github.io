@@ -1,3 +1,4 @@
+theme: jekyll-theme-cayman
 url : "https://kimjungho86.github.io"
 baseurl : ""
 
@@ -5,5 +6,3 @@ title : "테스트 블로그"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
-
-theme: jekyll-theme-cayman
